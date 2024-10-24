@@ -23,3 +23,6 @@
     -Counter with setTimeout
     -Read from file
     -Write to file
+    -> Medium
+    -File cleaner
+    -Clock in 24-hr and 12-hr format
